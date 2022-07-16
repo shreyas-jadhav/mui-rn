@@ -1,11 +1,12 @@
 {
   "name": "mui-rn",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "React Native Paper with Mui Syntax",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "build": "tsc",
+    "watch": "tsc --watch"
   },
   "author": "Shreyas Jadhav",
   "license": "ISC",
